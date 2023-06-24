@@ -16,7 +16,7 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 # Task 
 
-Task - Deployment practice
+Task - Simple Blog's Backend
 
 <hr/>
 
@@ -28,7 +28,7 @@ Back-end which is used is equal to NodeJs or Node.js
 
 # Back-end Source code
 
-Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/todo-app-backend .
+Back-end Source code's link is equal to https://github.com/Jagadeesh-Kumar-Initial-Is-S/Short-Blog-s-Backend .
 
 <hr/>
 
@@ -38,14 +38,4 @@ Back-end Deployed URL's link is equal to https://todo-app-backend-black.vercel.a
 
 <hr/>
 
-# Screenshot
 
-![image](https://user-images.githubusercontent.com/115778774/215329898-4f8b48ce-6fa1-4539-bc9d-2a9ea7097a80.png)
-
-<hr/>
-
-# Documentation on Postman
-
-Documentation on Postman URL's link is equal to https://documenter.getpostman.com/view/25437042/2s935hR7Ej .
-
-<hr/>
